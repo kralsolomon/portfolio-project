@@ -17,7 +17,7 @@ function Projects() {
 
                 <div className="flex justify-around flex-wrap mx-5 my-5">
                     <div className=" max-w-sm rounded-2xl overflow-hidden shadow-lg bg-white h-[500px]">
-                        <img className="w-full" src="/public/metaversus.png" alt="Metaversus"/>
+                        <img className="w-full" src="metaversus.png" alt="Metaversus"/>
                         <div className="px-6 py-4">
                             <div className="font-bold text-xl mb-2">Metaversus madness</div>
                             <p className="text-gray-700 text-base">
@@ -46,7 +46,7 @@ function Projects() {
                     </div>
 
                     <div className="max-w-sm rounded-2xl overflow-hidden shadow-lg bg-white h-[500px]">
-                        <img className="w-full" src="/public/swim.png" alt="swim"/>
+                        <img className="w-full" src="swim.png" alt="swim"/>
                         <div className="px-6 py-4">
                             <div className="font-bold text-xl mb-2">Swimclub</div>
                             <p className="text-gray-700 text-base">
@@ -73,7 +73,7 @@ function Projects() {
                         </a>
                     </div>
                     <div className="max-w-sm rounded-2xl overflow-hidden shadow-lg bg-white h-[500px]">
-                        <img className="w-full" src="/public/Shynschool.png" alt="Shynschool"/>
+                        <img className="w-full" src="Shynschool.png" alt="Shynschool"/>
                         <div className="px-6 py-4">
                             <div className="font-bold text-xl mb-2">Shynschool</div>
                             <p className="text-gray-700 text-base">
@@ -99,7 +99,7 @@ function Projects() {
                     </div>
 
                     <div className="max-w-sm rounded-2xl overflow-hidden shadow-lg bg-white h-[400px] mt-8">
-                        <img className="w-full" src="/public/jobsBar.png" alt="Job"/>
+                        <img className="w-full" src="jobsBar.png" alt="Job"/>
                         <div className="px-6 py-4">
                             <div className="font-bold text-xl mb-2">JobsBar</div>
                             <p className="text-gray-700 text-base">

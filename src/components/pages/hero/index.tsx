@@ -12,14 +12,14 @@ function Hero() {
                 </div>
 
                 <img
-                    src="/Animated%20Shape(4).svg"
+                    src="Animated%20Shape(4).svg"
                     alt="Index"
                     width="full"
                     height="full"
                     className="absolute -top-[98px]"
                 />
 
-                <img src="/programming.png" alt="coding" className="h-20 w-20"/>
+                <img src="programming.png" alt="coding" className="h-20 w-20"/>
 
                 <h1 className="text-2xl my-10">Hi, My name is Salamat Sagyndykov</h1>
 

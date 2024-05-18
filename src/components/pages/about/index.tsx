@@ -23,7 +23,7 @@ function About() {
 
                     <div className="flex justify-center order-1 lg:order-2">
                         <img
-                            src="/Salamat.jpg"
+                            src="Salamat.jpg"
                             width={360}
                             height={360}
                             alt="Salamat Sagyndykov"
